@@ -49,7 +49,7 @@ app.post('/run-query', async (req, res) => {
 
 
 
-
+//insert queries
 async function runQueries() {
     try {
       await pool.connect();
