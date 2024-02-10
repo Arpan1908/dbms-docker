@@ -1,4 +1,4 @@
-const { Pool } = require('pg');
+const { Pol } = require('pg');
 
 // PostgreSQL Connection Configuration
 const pool = new Pool({
